@@ -1,5 +1,8 @@
 # PCB for cc2530 zigbee router with USB-C
 
+This PCB enables you to connect your Router to USB-C Power.
+The Module is working with 3.3V so you need a converter from 5V to 3.3V.
+
 ## Schematic
 ![Schematic](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/schematic.PNG)
 
@@ -26,3 +29,6 @@ https://www.aliexpress.com/item/32976798070.html
 ## DC-DC Converter
 ![dcdc](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/dcdc.PNG)
 https://www.aliexpress.com/item/32824278957.html
+
+## v6:
+1. Added resistors R1 and R2 for USB-C as required by specification 
