@@ -8,10 +8,11 @@ The Module is working with 3.3V so you need a converter from 5V to 3.3V.
 
 ## PCB
 ### Top
-![PCB TOP](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/top_photo.PNG)
+![PCB TOP](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/top.JPG)
+
 
 ### Bottom
-![PCB BOTTOM](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/bottom_photo.PNG)
+![PCB BOTTOM](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/bottom.JPG)
 
 ## This is an older version without programming port
 ![picture](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/picture.JPG)
@@ -29,6 +30,9 @@ https://www.aliexpress.com/item/32976798070.html
 ## DC-DC Converter
 ![dcdc](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/dcdc.PNG)
 https://www.aliexpress.com/item/32824278957.html
+
+## Resistor packages
+Imperial: 1206 	Metric: 3216 	
 
 ## Versions:
 # v6
