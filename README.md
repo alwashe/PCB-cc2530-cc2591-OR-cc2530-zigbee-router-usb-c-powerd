@@ -30,5 +30,9 @@ https://www.aliexpress.com/item/32976798070.html
 ![dcdc](https://github.com/alwashe/PCB-for-cc2530-zigbee-router-with-USB-C/blob/master/dcdc.PNG)
 https://www.aliexpress.com/item/32824278957.html
 
-## v6:
+## Versions:
+# v6
 1. Added resistors R1 and R2 for USB-C as required by specification 
+
+## To Do:
+1. Test v6
