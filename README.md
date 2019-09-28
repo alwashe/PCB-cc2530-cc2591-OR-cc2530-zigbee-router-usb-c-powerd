@@ -1,4 +1,4 @@
-# PCB for cc2530 zigbee router with USB-C
+# PCB for cc2530-cc2591 OR cc2530 ZigBee router USB-C powerd
 
 This PCB enables you to connect your Router to USB-C Power.
 The Module is working with 3.3V so you need a converter from 5V to 3.3V.
