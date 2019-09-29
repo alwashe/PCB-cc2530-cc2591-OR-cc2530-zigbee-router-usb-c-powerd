@@ -14,7 +14,7 @@ The Module is working with 3.3V so you need a converter from 5V to 3.3V.
 ### Bottom
 ![PCB BOTTOM](https://github.com/alwashe/PCB-cc2530-cc2591-OR-cc2530-zigbee-router-usb-c-powerd/blob/master/bottom.JPG)
 
-## This is an older version without programming port
+## This is an older version (v5 cc2530-cc2591 only)
 ![picture](https://github.com/alwashe/PCB-cc2530-cc2591-OR-cc2530-zigbee-router-usb-c-powerd/blob/master/picture.JPG)
 
 
